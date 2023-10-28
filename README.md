@@ -3,7 +3,7 @@
 ## Project for University
 Contributors:
 - A. I.
-- K. F.
+- [gH.com/Bundzu](https://github.com/bundzu/)
 
 ## Check List:
 - [ ] Server
