@@ -1,7 +1,7 @@
 # Shared Grocery List with Login Panel
 
 ## Project for University
-Contributors:
+Collaborators:
 - [gH.com/adamilnicki](https://github.com/adamilnicki)
 - [gH.com/Bundzu](https://github.com/bundzu/)
 
