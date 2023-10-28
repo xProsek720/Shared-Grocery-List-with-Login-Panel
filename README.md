@@ -2,7 +2,7 @@
 
 ## Project for University
 Contributors:
-- A. I.
+- [gH.com/adamilnicki](https://github.com/adamilnicki)
 - [gH.com/Bundzu](https://github.com/bundzu/)
 
 ## Check List:
