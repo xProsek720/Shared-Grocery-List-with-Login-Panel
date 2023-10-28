@@ -23,4 +23,4 @@ Contributors:
 Feel free to fork and upgrade! B)
 
 when My Group will have more code I will put info how to configure that app in:
-```code | commands | scripts | etc ```
+```code | commands | scripts```
